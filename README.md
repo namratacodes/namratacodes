@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namrata Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;Machine+Learning+Enthusiast;Python+Developer;Hackathon+Winner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Student
-* 💻 Passionate about Machine Learning, Python, and Data Science
-* 🏆 IEEE Hackathon 3rd Rank Holder
-* 🌱 Currently building real-world projects using Streamlit and ML
-* 📌 Focused on internship-level development
+- 🎓 B.Tech Student  
+- 💻 Passionate about Machine Learning, Python, and Data Science  
+- 🏆 IEEE Hackathon 3rd Rank Holder  
+- 🌱 Currently building real-world projects using Streamlit and ML  
+- 📌 Focused on internship-level development  
 
 ---
 
@@ -27,23 +27,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namratacodes&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratacodes&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
