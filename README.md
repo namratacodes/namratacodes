@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namrata Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Integrated+M.Tech+Student;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Integrated+M.Tech+Student;Data+Science+Enthusiast;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 
