@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Namrata Singh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF¢er=true&vCenter=true&width=500&lines=M.Tech+Student+%7C+Data+Science+%26+ML;Building+with+Python+%26+Streamlit;IEEE+Hackathon+3rd+Place+%F0%9F%8F%86;Open+to+Remote+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML;Building+Predictive+Models+%26+Analytics;Open+to+Internships" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,9 +25,16 @@ I'm actively looking for remote internships where I can apply my skills to real 
 ### 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,MySQL,pandas,streamlit,git,github,vscode,jupyter&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 </p>
-
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 ---
 
 
