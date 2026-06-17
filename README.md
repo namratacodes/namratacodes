@@ -25,20 +25,11 @@ I'm actively looking for remote internships where I can apply my skills to real 
 ### 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,streamlit,git,github,vscode,jupyter&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,MySQL,pandas,streamlit,git,github,vscode,jupyter&theme=light" />
 </p>
 
 ---
 
-### 📌 Projects
-
-> ★ **Pin your 3 best repos** on your profile page. Also add them here:
-
-| Project | What it does | Stack |
-|---|---|---|
-| ★ [Project Name](★ link) | One clear sentence about what it solves | Python, Streamlit |
-| ★ [Project Name](★ link) | One clear sentence about what it solves | Scikit-learn, Pandas |
-| ★ [Project Name](★ link) | One clear sentence about what it solves | ML, Python |
 
 ---
 
@@ -68,6 +59,3 @@ I'm actively looking for remote internships where I can apply my skills to real 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namratacodes&color=6C63FF&style=flat-square&label=Profile+Views" />
-</p>
