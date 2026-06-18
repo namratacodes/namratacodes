@@ -38,7 +38,6 @@ I'm actively looking for remote internships where I can apply my skills to real 
 ---
 
 
----
 
 ### 📈 GitHub Stats
 
