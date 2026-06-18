@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Namrata Singh 👋</h1>
+<h1 align="center">Hey, I'm Namrata Singh </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+ML;Building+Predictive+Models+%26+Analytics;Open+to+Internships" alt="Typing SVG" />
