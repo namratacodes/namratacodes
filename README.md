@@ -16,7 +16,7 @@ I'm actively looking for remote internships where I can apply my skills to real 
 
 ### 🏆 Highlights
 
-- 🥉 **3rd Place** — IEEE Hackathon (competing against graduate-level teams)
+- 🥉 **3rd Place** : IEEE Hackathon (competing against graduate-level teams)
 - 🤖 Built and deployed ML models using scikit-learn, pandas, and Streamlit
 - 📊 Passionate about turning data into decisions, not just notebooks
 
