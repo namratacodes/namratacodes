@@ -11,6 +11,7 @@
 I'm a 4th year Integrated M.Tech student specializing in Data Science and Machine Learning.
 I build end-to-end projects , from cleaning messy datasets to deploying interactive apps with Streamlit.
 I'm actively looking for remote internships where I can apply my skills to real problems.
+
 Porfolio : https://namrata-singh.vercel.app/
 
 ---
